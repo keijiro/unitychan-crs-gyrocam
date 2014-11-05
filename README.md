@@ -7,8 +7,8 @@ are provided under the [UnityChan License][UCL]. See [the original repository]
 [CRS] for further information.
 
 [GyroCam]: https://github.com/keijiro/GyroCam
-[CRS]:     https://github.com/unity3d-jp/unitychan-crs
-[UCL]:     http://unity-chan.com/download/license_en.html
+[CRS]: https://github.com/unity3d-jp/unitychan-crs
+[UCL]: http://unity-chan.com/download/license_en.html
 
 ---
 
