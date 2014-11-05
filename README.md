@@ -1,4 +1,4 @@
-This is a test project for [GyroCam][GyroCam] with [UnityChan CRS][CRS] assets.
+This is a sample application of [GyroCam][GyroCam] with [UnityChan CRS][CRS] assets.
 
 ![GIF](http://keijiro.github.io/unitychan-crs-gyrocam/anim.gif)
 
