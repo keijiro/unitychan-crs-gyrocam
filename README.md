@@ -9,3 +9,7 @@ are provided under the [UnityChan License][UCL]. See [the original repository]
 [GyroCam]: https://github.com/keijiro/GyroCam
 [CRS]:     https://github.com/unity3d-jp/unitychan-crs
 [UCL]:     http://unity-chan.com/download/license_en.html
+
+---
+
+<div><img src="http://unity-chan.com/images/imageLicenseLogo.png" alt="Unity-Chan License"><p>These contents are licensed under the <a href="http://unity-chan.com/download/license_en.html" target="_blank">“Unity-Chan” License Terms and Conditions</a>. You are allowed to use these contents only if you follow the <a href="http://unity-chan.com/download/guideline_en.html" target="_blank">Character Use Guidelines</a> set by Unity Technologies Japan G.K., for the usage of its characters.</p></div>
