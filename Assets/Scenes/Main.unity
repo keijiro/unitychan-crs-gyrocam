@@ -101,8 +101,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5df80ba4f4ee473db4be1aeb19d0d4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetFrameRate: -1
-  shaderLOD: 1000
+  targetFrameRate: 60
+  shaderLOD: 300
 --- !u!4 &1748610911
 Transform:
   m_ObjectHideFlags: 0
@@ -226,20 +226,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ignoreFastForward: 1
-  musicPlayerPrefab: {fileID: 100000, guid: 2b9a716c1d31d45a5b906738bd5ee33e, type: 2}
-  mainCameraRigPrefab: {fileID: 100000, guid: 0f58e0fe394b24ed58b332f76fa9c423, type: 2}
-  prefabsNeedsActivation:
-  - {fileID: 100006, guid: db5cc803f9eaf4239ae82229a11bd471, type: 2}
-  - {fileID: 100270, guid: c2455b87c898eb646a195c31546b1481, type: 2}
+  musicPlayerPrefab: {fileID: 100000, guid: 23bf113e497bc40608e6ed5624ebc82d, type: 2}
+  mainCameraRigPrefab: {fileID: 100000, guid: b56e3d44eebb744998ad063bb6bc7b87, type: 2}
+  prefabsNeedsActivation: []
   prefabsOnTimeline:
   - {fileID: 100238, guid: 44374dd563c03d64aaff55a08495dd9f, type: 2}
   - {fileID: 100000, guid: 6f8c40c56b04d4982ae56eadeeb099fb, type: 2}
   miscPrefabs:
-  - {fileID: 100000, guid: 0329b91dd79424babb86c8dbc3919134, type: 2}
-  - {fileID: 100000, guid: f468251a01e8242df8066e377619a712, type: 2}
-  - {fileID: 100000, guid: f1efd132732334185ad79bc7263913ec, type: 2}
   - {fileID: 100000, guid: c70aff9297e6d4e9fa6e82c0038ded02, type: 2}
-  - {fileID: 100000, guid: 0291ac2d4e1e54df6bfa4776e3683a24, type: 2}
+  - {fileID: 100004, guid: 429c458c509d140869eb07dc8186498e, type: 2}
+  - {fileID: 100002, guid: 47a3762d5191b4d0298cfe7c23359dbe, type: 2}
   cameraPoints:
   - {fileID: 1750265709}
   - {fileID: 2112224815}
